@@ -13,3 +13,7 @@ const renderer = createBundleRenderer(resolve(__dirname, './dist/skeleton.json')
 renderer.renderToString({}, (err, html) => {
   fs.writeFileSync('index.html', html, 'utf-8')
 })
+
+
+
+// https://ssr.vuejs.org/#why-ssr
