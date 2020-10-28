@@ -9,7 +9,7 @@
     "start": "npm run dev",
     "lint": "eslint --ext .js,.vue src",
     "build": "node build/build.js",
-    "en": "webpack --config webpack.skeleton.conf.js"
+    "skeleton": "webpack --config webpack.skeleton.conf.js"
   },
   "dependencies": {
     "vue": "^2.5.2",
