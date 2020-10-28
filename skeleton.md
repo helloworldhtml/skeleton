@@ -7,7 +7,7 @@
 
 SPA加载过程：
 
-1. 首先拉取html,只有一个div，头部可能还有静态资源
+1. 首先拉取html
 
 2. 解析html, 拉取静态资源（css, js）
 
@@ -38,16 +38,7 @@ https://liuxuan.blog.csdn.net/article/details/104237256
     
 
 
-
-
 # 1. 什么是骨架屏
-
-  https://blog.csdn.net/xiasohuai/article/details/95771014
-  https://www.jianshu.com/p/bf9353cfbbc6
-
-
-
-
 
 
 # 2. 使用骨架屏的方法（三）
